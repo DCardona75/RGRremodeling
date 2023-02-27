@@ -2757,7 +2757,7 @@ textarea.form-control {
      -moz-user-select: none;
       -ms-user-select: none;
           user-select: none;
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, 0.352);
   border: 1px solid transparent;
   padding: 0.4rem 0.78rem;
   font-size: 1rem;
@@ -4552,6 +4552,7 @@ input[type="button"].btn-block {
   background-color: rgba(10, 10, 1, 0.044);
   color:black
 }
+
 
 .nav-fill .nav-item {
   -webkit-box-flex: 1;
@@ -11273,7 +11274,7 @@ h1 {
 }
 
 .header {
-  background: #efefef url(../IMG2/Contactorhelmet.jpg);
+  background: #efefef url(../IMG2/mainpageback.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -11289,19 +11290,21 @@ h1 {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: 10%;
   background: rgba(0, 0, 0, 0.4);
 }
 
 .header .header-content {
   position: absolute;
   width: 100%;
-  top: 50%;
+  top: 85%;
+  padding-right: 5%;
   -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
           transform: translateY(-50%);
-  text-align: ‌ center;
+  text-align:center ;
   color: #fff;
+  
 }
 
 .header .header-content p {

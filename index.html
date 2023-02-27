@@ -56,9 +56,8 @@
         <div class="overlay"></div>
         <div class="header-content">
            <!-- <p>Lorem ipsum dolor sit amet.</p> -->
-            <a class="navbar-brand" href="#"><strong class="text-primary">RGR</strong> <span class="text-dark">Remodeling</span></a>
             <li class="nav-item ml-md-4">
-                <a class="nav-link2" href="#contact">
+                <a class="nav-link2"  href="#contact">
             <button class="btn btn-outline-light"> CLICK HERE FOR FREE ESTIMATE NOW </button>
         </a>
         </li> 
@@ -75,7 +74,7 @@
                 <div class="col-md-6">
                     <div class="img-wrapper">
                         <div class="after"></div>
-                        <img src="assets/IMG2/callcard.jpeg" class="w-100" alt="About Us">
+                        <img src="assets/IMG2/Famphotorgr.png" class="w-75" height="50%" alt="About Us">
                     </div>
                 </div>
                 <div class="col-md-5">
@@ -169,7 +168,8 @@
     <span class="dot" onclick="currentSlide(2)"></span>
     <span class="dot" onclick="currentSlide(3)"></span>
   </div>
-    
+  
+  <h4>Click <a href="gallery.html">here</a> to see more</h4>
   </section>
   <!--Gallery Ends-->
 
@@ -294,16 +294,28 @@
             <p class="mb-5">If you have some Questions or would like a quote! Please Contact Us! <br> 
             </p>
             <form name="Mail.php" method="post">
-            <form class="contact-form col-md-11 col-lg-9 mx-auto">
+          
                 <div class="form-row">
                     <div class="col form-group">
-                        <input type="text" name="Name" id="Name" class="form-control" placeholder="Name">
+                        <label for="name">
+                            <input type="text" 
+                            name="name" id="name"
+                            class="form-control" placeholder="Name" required>
+                        </label>
                     </div>
                     <div class="col form-group">
-                        <lable for="Email"></lable>
-                        <input type="Email" 
+                        <label for="Email">
+                        <input type="email" 
                         name="Email" id="Email"
-                        class="form-control" placeholder="Email">
+                        class="form-control" placeholder="Email" required>
+                    </label>
+                    </div>
+                    <div class="col form-group">
+                        <label for="Phone">
+                        <input type="tel" 
+                        name="Email" id="Phone"
+                        class="form-control" placeholder="Phone number" required>
+                    </label>
                     </div>
                 </div>
                 <div class="form-group">
@@ -312,7 +324,7 @@
                 <div class="form-group">
                     <input type="submit" class="btn btn-primary btn-block" value="Send Message">
                 </div>
-            </form>  <!--End of Contact form -->  
+              <!--End of Contact form -->  
         </form>     
      </div>  <!--End of Container-->
    
