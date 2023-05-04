@@ -1,0 +1,31 @@
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@rgrremodeling/video/7224336228097838382" data-video-id="7224336228097838382" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@rgrremodeling" href="https://www.tiktok.com/@rgrremodeling?refer=embed">@rgrremodeling</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="foryoupage" target="_blank" href="https://www.tiktok.com/tag/foryoupage?refer=embed">#foryoupage</a> <a title="magnolia" target="_blank" href="https://www.tiktok.com/tag/magnolia?refer=embed">#magnolia</a> <a title="renovation" target="_blank" href="https://www.tiktok.com/tag/renovation?refer=embed">#renovation</a> <a title="remodelinghacks" target="_blank" href="https://www.tiktok.com/tag/remodelinghacks?refer=embed">#remodelinghacks</a> <a title="diyproject" target="_blank" href="https://www.tiktok.com/tag/diyproject?refer=embed">#diyproject</a> <a target="_blank" title="♬  Small Biz Glow Up - TikTok For Business" href="https://www.tiktok.com/music/Small-Biz-Glow-Up-7161608790104606722?refer=embed">♬  Small Biz Glow Up - TikTok For Business</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
+
+
+
+<!-- Services Section -->
+    <section class="has-bg-img" id="video">
+        
+       
+            
+        <br>
+        <br>
+        <div class="overlay"></div>
+        <!-- Button trigger modal -->
+        <a data-toggle="modal" href="#exampleModalCenter">
+            <i></i>
+        </a>
+
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content"> <!--  VIDEO LINK  -->
+                    
+                    <iframe width="100%" height="450px" class="border-0" 
+                    src="assets/imgs/Video coming soon.png">
+                    </iframe>   <!--   VIDEO LINK    -->
+                </div>
+            </div>
+        </div><!-- End of Modal -->     
+    </section><!-- End of service Section -->  
